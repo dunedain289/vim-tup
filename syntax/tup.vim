@@ -58,3 +58,4 @@ highlight def chain ctermfg=green cterm=bold
 highlight def atvar ctermfg=red cterm=bold
 highlight def ifdef ctermfg=red cterm=bold
 highlight def backslash ctermfg=red cterm=bold
+set comments=:#
